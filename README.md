@@ -85,7 +85,8 @@ Questo file semplicemente è il completamento finale della giusta distribuzione 
 
 #ProgettoP20
 
-![immagine16](https://github.com/user-attachments/assets/c84424ec-23e3-42c1-a8ae-b228cd60f394)
+![immagine17](https://github.com/user-attachments/assets/7f3b42fe-d2a1-4ac3-b4d4-59e9141b0b58)
+
 
 Questo file contiene l'animazione del Pacman,ho iniziato dal frame 60 e concluso al frame 220, e l'animazione consisite di un semplice salto e di un atterraggio facendo una specie di opplà.In più ho anche aggiunto una luce ad area.
 
@@ -97,8 +98,8 @@ Questo file contiene l'animazione del Pacman,ho iniziato dal frame 60 e concluso
 Su questo file ho aggiunto un piccolo Pacman versione "2d" per abbellire un po l'animazione, per farlo ho seguito un piccolo tutorial che ho trovato, e la sua animazione viene effettuata applicando rotation key e location key. L'ho animato in modo che si fermi poco prima del pacman 3d così che quest'ultimo inizi la sua di animazione.
 
 #ProgettoP22s
-![immagine17](https://github.com/user-attachments/assets/7f3b42fe-d2a1-4ac3-b4d4-59e9141b0b58)
 
+![immagine16](https://github.com/user-attachments/assets/c84424ec-23e3-42c1-a8ae-b228cd60f394)
 
 Questo è il risultato quasi finale dell'intera animazione, in cui ho aggiunto un'altra luce ad area, ho aggiunto il fantasmino(cui successivamente spiego la creazione) e le tipiche palline bianche dei giochi di Pacman che ho creato usando solo delle icosphere. Inoltre ho aggiunto un effetto di invisibilità quando il fantasmino e le palline venivano "mangiate", per farlo ho solo usato il disable in render e durante i frame in cui venivano mangiati l'ho disabilitato e aggiunto il keyframe. Ho anche modificato un po' la posizione della camera e fatto quel tipo di zoom per mezzo dei frame.
 
