@@ -17,19 +17,19 @@ Per le gambe ho seguito lo stesso ragionamento usato nelle braccia quindi ho cre
 
 #Progetto P6
 
-Procedendo con gli stivali li ho suddivisi dalle gambe, lavorando sulle facce poi li ho grabbati verso l'alto dando quella forma di gamba dentro lo stivale, successivamente lavorando sui lati con grab ho allungato leggermente la punta dei piedi così da poter allungare un altro lato verso l'alto con grab e dargli quella forma particolare da stivale da pagliaccio.
+Procedendo con gli stivali li ho separati dalle gambe, lavorando sulle facce poi li ho grabbati verso l'alto dando quella forma di gamba dentro lo stivale, successivamente lavorando sui lati con grab ho allungato leggermente la punta dei piedi così da poter allungare un altro lato verso l'alto con grab e dargli quella forma particolare da stivale da pagliaccio.
 
 #ProgettoP7
 
-Per creare la bocca ho usato una uvsphere che ho tagliato secondo diversi versi per avere come risultato una specie di sagoma di una bocca(però a metà visto che il modificatore mirror ci da una mano per fare l'altra metà), questa sagoma l'ho attaccata nella testa e mediante il modficatore boolean applicato alla testa e selezionando la sagoma ho creato la bocca, infine questa sagoma l'ho nascosta con H.
+Per creare la bocca ho usato una uvsphere che ho tagliato secondo diversi versi per avere come risultato un 1/8 di sfera cioè una specie di sagoma di una bocca(però a metà visto che il modificatore mirror ci da una mano per fare l'altra metà), questa sagoma l'ho attaccata nella testa e mediante il modficatore boolean con difference applicato alla testa e selezionando la sagoma ho creato la bocca, infine questa sagoma l'ho nascosta momentaneamente con H ma che poi verrà eliminata più avanti.
 
 #ProgettoP9
 
-Per creare il naso, lavorando sui vertici ho scelto 2 punti specifici su cui ho applicato il comando crtl+shift+B e creato quei 2 esagoni che si possono osservare, dove poi lavorando sulle facce con una extrude ho creato il naso e per farlo stare un po in diagonale ho usato un grab sulla faccia più esterna e l'ho spostato, per la lingua invece sempicemente ho usato un cube trasformato col comando crtl+2 su cui ho effettuato diversi resize e grab per dare la forma e attaccarlo alla testa.
+Per creare il naso, lavorando sui vertici ho scelto 2 punti specifici su cui ho usato la bevel applicata ai vertici (comando crtl+shift+B) e creato quei 2 esagoni che si possono osservare, dove poi lavorando sulle facce con una extrude ho creato il naso e per farlo stare un po in diagonale ho usato un grab sulla faccia più esterna e l'ho spostato, per la lingua invece sempicemente ho usato un cube trasformato col comando crtl+2 su cui ho effettuato diversi resize e grab per dare la forma e attaccarlo alla testa.
 
 #ProgettoP10
 
-Per gli occhi ho usato un circle che ho ruotato a 90°, con F ho creato la facciata, poi l'ho ridimensionato con qualche resize per dare la forma,successivamente ho applicato una leggera extrude su tutti i vertici(per dare quella forma 3d)ed infine usando il proportional editing objects e usando la grab li ho "attaccati" il più possibile alla testa.
+Per gli occhi ho usato un circle che ho ruotato a 90°, con F ho creato la facciata, poi l'ho ridimensionato con qualche resize per dare la forma,successivamente ho applicato una leggera extrude sulla faccia(per dare quella forma 3d)ed infine usando il proportional editing objects e usando la grab li ho "attaccati" il più possibile alla testa.
 
 #ProgettoP11
 
@@ -45,7 +45,7 @@ Su questo file ho cominciato a creare le ossa che poi serviranno per far muovere
 
 #ProgettoP12animazioneunito3
 
-Su questo file ho aggiunto ancora qualche osso per gli stivali e ho "unito" gambe e braccia al corpo (per renderlo più bello esteticamente) e per farlo ho cancellato le parti più interne al corpo, ho cancellato le facce del corpo più adiacenti a ciascuna articolazione ed ho applicato una bridge edge loops che poi con l'aiuto del grab ho aggiustato meglio.
+Su questo file ho aggiunto ancora qualche osso per gli stivali e ho "unito" gambe e braccia al corpo (così durante l'animazione si muovono meglio) e per farlo ho cancellato le parti più interne al corpo, ho cancellato le facce del corpo più adiacenti a ciascuna articolazione ed ho applicato una bridge edge loops che poi con l'aiuto del grab ho aggiustato meglio.
 
 #ProgettoP12animazioneunito4
 
@@ -53,7 +53,7 @@ Su questo file ho semplicemente aggiunto un plane; diciamo per creare un piccolo
 
 #ProgettoP15
 
-Su questo file, come accennato in precedenza ho semplicemenete cancellato le ossa della cintura che rendeva diffcile la rotazione/movimento delle gambe, ed ho anche già per lo più distribuito meglio il peso di ciascun osso per mezzo dello weight paint.
+Su questo file, come accennato in precedenza ho semplicemenete cancellato le ossa della cintura che rendeva diffcile la rotazione/movimento delle gambe, ed ho anche già per lo più distribuito meglio il peso di ciascun osso per mezzo della weight paint.
 
 #ProgettoP19
 
@@ -69,7 +69,7 @@ Su questo file ho aggiunto un piccolo Pacman versione "2d" per abbellire un po l
 
 #ProgettoP22s
 
-Questo è il risultato quasi finale dell'intera animazione, in cui ho aggiunto un'altra luce ad area, ho aggiunto il fantasmino(cui successivamente spiego la creazione) e le tipiche palline bianhce dei giochi di Pacman che ho creato usando solo delle icosphere. Inoltre ho aggiunto un effetto di invisibilità quando il fantasmino e le palline venivano "mangiate", per farlo ho solo usato il disable in render e durante i frame in cui venivano mangiati l'ho disabilitato. Ho anche modificato un po' la posizione della camera e fatto quel tipo di zoom per mezzo dei frame.
+Questo è il risultato quasi finale dell'intera animazione, in cui ho aggiunto un'altra luce ad area, ho aggiunto il fantasmino(cui successivamente spiego la creazione) e le tipiche palline bianche dei giochi di Pacman che ho creato usando solo delle icosphere. Inoltre ho aggiunto un effetto di invisibilità quando il fantasmino e le palline venivano "mangiate", per farlo ho solo usato il disable in render e durante i frame in cui venivano mangiati l'ho disabilitato e aggiunto il keyframe. Ho anche modificato un po' la posizione della camera e fatto quel tipo di zoom per mezzo dei frame.
 
 #ProgettoP23
 
@@ -86,7 +86,7 @@ Per la bocca invece ho usato una cube su cui ho applicato il comando ctrl+2, ci 
 
 #Fantasma2
 
-Su questo file ho solo dato una forma migliore ai guanti,lavorando sulle facce ho solo usato la grab e così ho dato un po quella forma infossata.
+Su questo file ho solo dato una forma migliore ai guanti,lavorando sulle facce ho solo usato la grab e così ho dato un po' quella forma infossata.
 
 #Fantasma3
 
