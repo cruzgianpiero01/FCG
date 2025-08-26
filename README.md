@@ -64,12 +64,15 @@ In questo file semplicemente ho applicato tutti i modificatori usati fin ora su 
 Su questo file ho cominciato a creare le ossa che poi serviranno per far muovere il personaggio durante l'animazione, ne ho create per il corpo/testa, per le braccia,i pollici , le gambe e la cintura, anche se quest'ultima poi l'ho cancellata perchè rendeva complicato la rotazione/movimento delle gambe (Al momento il peso delle ossa non è ancora distribuito bene e quando si vuole ruotare un articolazione, influenza anche altre parti del corpo).
 
 #ProgettoP12animazioneunito3
-![immagine11](https://github.com/user-attachments/assets/42131c4d-7202-457d-8440-157c9a60dd57)
+
+![immagine12](https://github.com/user-attachments/assets/ee2b7538-ae74-49ce-9449-070af8408317)
 
 Su questo file ho aggiunto ancora qualche osso per gli stivali e ho "unito" gambe e braccia al corpo (così durante l'animazione si muovono meglio) e per farlo ho cancellato le parti più interne al corpo, ho cancellato le facce del corpo più adiacenti a ciascuna articolazione ed ho applicato una bridge edge loops che poi con l'aiuto del grab ho aggiustato meglio.
 
 #ProgettoP12animazioneunito4
-![immagine12](https://github.com/user-attachments/assets/ee2b7538-ae74-49ce-9449-070af8408317)
+
+![immagine11](https://github.com/user-attachments/assets/42131c4d-7202-457d-8440-157c9a60dd57)
+
 
 Su questo file ho semplicemente aggiunto un plane; diciamo per creare un piccolo spazio di sceneggiatura per l'animazione finale.
 
