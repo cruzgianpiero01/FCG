@@ -1,6 +1,8 @@
 # FCG
 Progetto Pacman FCG
 
+N.B. Come si vede dal risultato finale nel video tutti gli elementi sono colorati usando lo shading, nei file inviati (a partire da un certo file) sono disattivati, ma si possono attivare perfettamente usando lo viewport shading.
+
 #ProgettoP1
 
 Ho iniziato creando un semplice uvsphere(che ho tagliato a metà e applicato il modifier mirror per semplificare un po il lavoro) per la testa, successivamente per le braccia ho usato un cube che ho trasformato con crtl+2 in una specie di sphere che poi ho allungato con grab,e dopo due tagli e uno extrude e extrude faces along normal(lavorando sulle facce) ho creato quello che dovrebbe essere parte del guanto.
@@ -72,7 +74,7 @@ Questo è il risultato quasi finale dell'intera animazione, in cui ho aggiunto u
 #ProgettoP23
 
 Su questo ultimo file ho semplicemente voltato il fantasmino per dargli miglior visibilità e gli ho aggiunto una piccola animazione di movimento, come se scappasse dall'essere mangiato.
-Il video del rendering dell'animazione è allegato.
+Il video del rendering dell'animazione è allegato. Ho anche aggiunto un piccolo audio trovato su internet.
 
 #Fantasma
 
