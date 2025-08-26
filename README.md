@@ -75,17 +75,19 @@ Su questo file ho semplicemente aggiunto un plane; diciamo per creare un piccolo
 
 #ProgettoP15
 
-![immagine17](https://github.com/user-attachments/assets/7f3b42fe-d2a1-4ac3-b4d4-59e9141b0b58)
+
 
 Su questo file, come accennato in precedenza ho semplicemenete cancellato le ossa della cintura che rendeva diffcile la rotazione/movimento delle gambe, ed ho anche già per lo più distribuito meglio il peso di ciascun osso per mezzo della weight paint.
 
 #ProgettoP19
-![immagine14](https://github.com/user-attachments/assets/4e16decc-8f98-4a7c-b0e4-7c44d01730d9)
+
 
 Questo file semplicemente è il completamento finale della giusta distribuzione del peso per ciascun osso, ed è pronto per la creazione dei frame d'animazione.
 
 #ProgettoP20
 
+![immagine17](https://github.com/user-attachments/assets/7f3b42fe-d2a1-4ac3-b4d4-59e9141b0b58)
+![immagine14](https://github.com/user-attachments/assets/4e16decc-8f98-4a7c-b0e4-7c44d01730d9)
 ![immagine13](https://github.com/user-attachments/assets/38ff08a8-5e1f-4cb8-85a3-1e2ddfdfd0d4)
 
 
