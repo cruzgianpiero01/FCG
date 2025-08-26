@@ -5,6 +5,7 @@ N.B. Come si vede dal risultato finale nel video tutti gli elementi sono colorat
 
 #ProgettoP1
 
+![WhatsApp Image 2025-08-26 at 18 03 19](https://github.com/user-attachments/assets/10ba2bbc-64d9-4d0a-a056-ee7e72a2365f)
 
 
 Ho iniziato creando un semplice uvsphere(che ho tagliato a metà e applicato il modifier mirror per semplificare molto il lavoro,l'ho anche usato sulle braccia,gambe etc.) per la testa, successivamente per le braccia ho usato un cube che ho trasformato con crtl+2 in una specie di sphere che poi ho allungato con grab,e dopo due tagli e uno extrude e extrude faces along normal(lavorando sulle facce) ho creato quello che dovrebbe essere parte del guanto.
