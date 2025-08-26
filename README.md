@@ -136,6 +136,7 @@ Per la bocca invece ho usato una cube su cui ho applicato il comando ctrl+2, ci 
 Su questo file ho solo dato una forma migliore ai guanti,lavorando sulle facce ho solo usato la grab e così ho dato un po' quella forma infossata.
 
 #Fantasma3
+
 ![immagine22](https://github.com/user-attachments/assets/55787b3d-991b-49fb-add0-55a300a8877e)
 
 Su questo ultimo file invece ho solo dato una migliore posa con le braccia al personaggio, per farlo ho solo effettutato rotazioni e grab sulle braccia fino a raggiungere la forma desiderata.
