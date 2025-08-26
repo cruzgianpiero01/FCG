@@ -123,12 +123,15 @@ Il video del rendering dell'animazione è allegato. Ho anche aggiunto un piccolo
 Per la creazione del fantasmino ho usato una uvsphere che poi ho tagliato a metà e lavorando sui lati e per mezzo di una extrude ho fatto l'estrusione verso il basso, e per dare quella forma di spigoli, lavorando sui vertici ho solo grabbato verso l'alto ciascun vertice.Per gli occhi invece ho usato una uvshpere che ho ridimensionato ed applicato vari resize per dargli la giusta dimensione e per dargli quella forma a goccia ho usato il grab con aiuto del proportional editing objects.Per le braccia ho seguito lo stesso procedimento del Pacman spiegato in precedenza.
 
 #Fanatasma1
-![immagine20](https://github.com/user-attachments/assets/45f31e06-c4d1-4ca0-bb14-6a956eae4b27)
+
+![immagine21](https://github.com/user-attachments/assets/a83fa873-7dc3-4a80-a0a4-334f1a358140)
 
 Per la bocca invece ho usato una cube su cui ho applicato il comando ctrl+2, ci ho applicato alcune resize per la giusta dimensione e usando il grab ed il proportional editing objects ho dato quella forma curva, la lingua invece è solo lavoro di shading.
 
 #Fantasma2
-![immagine21](https://github.com/user-attachments/assets/a83fa873-7dc3-4a80-a0a4-334f1a358140)
+
+![immagine20](https://github.com/user-attachments/assets/45f31e06-c4d1-4ca0-bb14-6a956eae4b27)
+
 
 Su questo file ho solo dato una forma migliore ai guanti,lavorando sulle facce ho solo usato la grab e così ho dato un po' quella forma infossata.
 
