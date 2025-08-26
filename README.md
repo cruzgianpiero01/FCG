@@ -50,7 +50,7 @@ Per creare il naso, lavorando sui vertici ho scelto 2 punti specifici su cui ho 
 Per gli occhi ho usato un circle che ho ruotato a 90°, con F ho creato la facciata, poi l'ho ridimensionato con qualche resize per dare la forma,successivamente ho applicato una leggera extrude sulla faccia(per dare quella forma 3d)ed infine usando il proportional editing objects e usando la grab li ho "attaccati" il più possibile alla testa.
 
 #ProgettoP11
-![immagine8](https://github.com/user-attachments/assets/b09f4da3-8ac6-4f99-b4f8-4ad4482b2c4a)
+
  Per le sopracciglia invece ho preso due lati specifici sopra l'occhio che ho dissolto e lavorando sui vertici ho usato la knife su cui ho creato un triangolo ed infine con la grab prendendo il vertice più in alto di questo triangolo l'ho mosso un po su vari assi per dare la forma finale.
 
 #ProgettoP12
@@ -60,6 +60,7 @@ In questo file semplicemente ho applicato tutti i modificatori usati fin ora su 
 
 #ProgettoP12animazione2
 
+![immagine8](https://github.com/user-attachments/assets/b09f4da3-8ac6-4f99-b4f8-4ad4482b2c4a)
 
 Su questo file ho cominciato a creare le ossa che poi serviranno per far muovere il personaggio durante l'animazione, ne ho create per il corpo/testa, per le braccia,i pollici , le gambe e la cintura, anche se quest'ultima poi l'ho cancellata perchè rendeva complicato la rotazione/movimento delle gambe (Al momento il peso delle ossa non è ancora distribuito bene e quando si vuole ruotare un articolazione, influenza anche altre parti del corpo).
 
