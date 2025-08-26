@@ -23,12 +23,16 @@ Lavorando sulle facce ho fatto una extrude sulla parte più esterna del braccio 
 Per le gambe ho seguito lo stesso ragionamento usato nelle braccia quindi ho creato un cube che poi ho trasformato usando ctrl+2, con grab l'ho allungato e usato una piccola extrude e poi una extrude faces along normal per dare un po la forma alo stivale che poi ho suddiviso e lavorando sulle facce una delle parti suddivise l'ho leggermente allungata con extrude per creare la punta dello stivale. 
 
 #Progetto P6
-![immagine4](https://github.com/user-attachments/assets/a42ae0e3-0b1c-4f73-94f7-d5052b575548)
+
+![immagine5](https://github.com/user-attachments/assets/e4271b1a-87f1-4e54-aa78-34aa4611c63d)
+
 
 Procedendo con gli stivali li ho separati dalle gambe, lavorando sulle facce poi li ho grabbati verso l'alto dando quella forma di gamba dentro lo stivale, successivamente lavorando sui lati con grab ho allungato leggermente la punta dei piedi così da poter allungare un altro lato verso l'alto con grab e dargli quella forma particolare da stivale da pagliaccio.
 
 #ProgettoP7
-![immagine5](https://github.com/user-attachments/assets/e4271b1a-87f1-4e54-aa78-34aa4611c63d)
+
+![immagine4](https://github.com/user-attachments/assets/a42ae0e3-0b1c-4f73-94f7-d5052b575548)
+
 
 Per creare la bocca ho usato una uvsphere che ho tagliato secondo diversi versi per avere come risultato un 1/8 di sfera cioè una specie di sagoma di una bocca(però a metà visto che il modificatore mirror ci da una mano per fare l'altra metà), questa sagoma l'ho attaccata nella testa e mediante il modficatore boolean con difference applicato alla testa e selezionando la sagoma ho creato la bocca, infine questa sagoma l'ho nascosta momentaneamente con H ma che poi verrà eliminata più avanti.
 
