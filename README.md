@@ -37,12 +37,15 @@ Procedendo con gli stivali li ho separati dalle gambe, lavorando sulle facce poi
 Per creare la bocca ho usato una uvsphere che ho tagliato secondo diversi versi per avere come risultato un 1/8 di sfera cioè una specie di sagoma di una bocca(però a metà visto che il modificatore mirror ci da una mano per fare l'altra metà), questa sagoma l'ho attaccata nella testa e mediante il modficatore boolean con difference applicato alla testa e selezionando la sagoma ho creato la bocca, infine questa sagoma l'ho nascosta momentaneamente con H ma che poi verrà eliminata più avanti.
 
 #ProgettoP9
-![immagine6](https://github.com/user-attachments/assets/4fff2441-d024-46c5-8950-67dd0fa31223)
+
+![immagine7](https://github.com/user-attachments/assets/cbb3d322-abcd-4300-b5e4-d55d30e5436b)
+
 
 Per creare il naso, lavorando sui vertici ho scelto 2 punti specifici su cui ho usato la bevel applicata ai vertici (comando crtl+shift+B) e creato quei 2 esagoni che si possono osservare, dove poi lavorando sulle facce con una extrude ho creato il naso e per farlo stare un po in diagonale ho usato un grab sulla faccia più esterna e l'ho spostato, per la lingua invece sempicemente ho usato un cube trasformato col comando crtl+2 su cui ho effettuato diversi resize e grab per dare la forma e attaccarlo alla testa.
 
 #ProgettoP10
-![immagine7](https://github.com/user-attachments/assets/cbb3d322-abcd-4300-b5e4-d55d30e5436b)
+
+![immagine6](https://github.com/user-attachments/assets/4fff2441-d024-46c5-8950-67dd0fa31223)
 
 Per gli occhi ho usato un circle che ho ruotato a 90°, con F ho creato la facciata, poi l'ho ridimensionato con qualche resize per dare la forma,successivamente ho applicato una leggera extrude sulla faccia(per dare quella forma 3d)ed infine usando il proportional editing objects e usando la grab li ho "attaccati" il più possibile alla testa.
 
