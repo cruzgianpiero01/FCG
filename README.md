@@ -84,12 +84,15 @@ Su questo file, come accennato in precedenza ho semplicemenete cancellato le oss
 Questo file semplicemente è il completamento finale della giusta distribuzione del peso per ciascun osso, ed è pronto per la creazione dei frame d'animazione.
 
 #ProgettoP20
-![immagine15](https://github.com/user-attachments/assets/28079792-3a0c-4b2b-9a3f-8a0f491cc1ed)
+
+![immagine16](https://github.com/user-attachments/assets/c84424ec-23e3-42c1-a8ae-b228cd60f394)
 
 Questo file contiene l'animazione del Pacman,ho iniziato dal frame 60 e concluso al frame 220, e l'animazione consisite di un semplice salto e di un atterraggio facendo una specie di opplà.In più ho anche aggiunto una luce ad area.
 
 #ProgettoP21
-![immagine16](https://github.com/user-attachments/assets/c84424ec-23e3-42c1-a8ae-b228cd60f394)
+
+![immagine15](https://github.com/user-attachments/assets/28079792-3a0c-4b2b-9a3f-8a0f491cc1ed)
+
 
 Su questo file ho aggiunto un piccolo Pacman versione "2d" per abbellire un po l'animazione, per farlo ho seguito un piccolo tutorial che ho trovato, e la sua animazione viene effettuata applicando rotation key e location key. L'ho animato in modo che si fermi poco prima del pacman 3d così che quest'ultimo inizi la sua di animazione.
 
