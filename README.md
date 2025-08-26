@@ -43,19 +43,19 @@ Per creare la bocca ho usato una uvsphere che ho tagliato secondo diversi versi 
 
 Per creare il naso, lavorando sui vertici ho scelto 2 punti specifici su cui ho usato la bevel applicata ai vertici (comando crtl+shift+B) e creato quei 2 esagoni che si possono osservare, dove poi lavorando sulle facce con una extrude ho creato il naso e per farlo stare un po in diagonale ho usato un grab sulla faccia più esterna e l'ho spostato, per la lingua invece sempicemente ho usato un cube trasformato col comando crtl+2 su cui ho effettuato diversi resize e grab per dare la forma e attaccarlo alla testa.
 
-#ProgettoP10
+#ProgettoP10 e ProgettoP11
 
 ![immagine6](https://github.com/user-attachments/assets/4fff2441-d024-46c5-8950-67dd0fa31223)
 
 Per gli occhi ho usato un circle che ho ruotato a 90°, con F ho creato la facciata, poi l'ho ridimensionato con qualche resize per dare la forma,successivamente ho applicato una leggera extrude sulla faccia(per dare quella forma 3d)ed infine usando il proportional editing objects e usando la grab li ho "attaccati" il più possibile alla testa.
 
-#ProgettoP11
 
  Per le sopracciglia invece ho preso due lati specifici sopra l'occhio che ho dissolto e lavorando sui vertici ho usato la knife su cui ho creato un triangolo ed infine con la grab prendendo il vertice più in alto di questo triangolo l'ho mosso un po su vari assi per dare la forma finale.
 
 #ProgettoP12
 
 ![immagine9](https://github.com/user-attachments/assets/505057e1-e7df-4a61-a2f4-bcc04e89166c)
+
 In questo file semplicemente ho applicato tutti i modificatori usati fin ora su ciascuna parte del corpo ed infine mediante il comando ctrl+j ho unito tutti i pezzi del corpo per farsi di ottenere un unico oggetto.
 
 #ProgettoP12animazione2
