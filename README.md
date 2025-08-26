@@ -39,5 +39,54 @@ In questo file semplicemente ho applicato tutti i modificatori usati fin ora su 
 
 #ProgettoP12animazione2
 
-Su questo file ho cominciato a creare le ossa che poi serviranno per far muovere il personaggio durante l'animazione, ne ho create per il corpo/testa, per le braccia,i pollici , le gambe e la cintura, anche se quest'ultima poi l'ho cancellata perchè rendeva complicato la rutazione/movimento delle gambe.
+Su questo file ho cominciato a creare le ossa che poi serviranno per far muovere il personaggio durante l'animazione, ne ho create per il corpo/testa, per le braccia,i pollici , le gambe e la cintura, anche se quest'ultima poi l'ho cancellata perchè rendeva complicato la rotazione/movimento delle gambe (Al momento il peso delle ossa non è ancora distribuito bene e quando si vuole ruotare un articolazione, influenza anche altre parti del corpo).
+
+#ProgettoP12animazioneunito3
+
+Su questo file ho aggiunto ancora qualche osso per gli stivali e ho "unito" gambe e braccia al corpo (per renderlo più bello esteticamente) e per farlo ho cancellato le parti più interne al corpo, ho cancellato le facce del corpo più adiacenti a ciascuna articolazione ed ho applicato una bridge edge loops che poi con l'aiuto del grab ho aggiustato meglio.
+
+#ProgettoP12animazioneunito4
+
+Su questo file ho semplicemente aggiunto un plane; diciamo per creare un piccolo spazio di sceneggiatura per l'animazione finale.
+
+#ProgettoP15
+
+Su questo file, come accennato in precedenza ho semplicemenete cancellato le ossa della cintura che rendeva diffcile la rotazione/movimento delle gambe, ed ho anche già per lo più distribuito meglio il peso di ciascun osso per mezzo dello weight paint.
+
+#ProgettoP19
+
+Questo file semplicemente è il completamento finale della giusta distribuzione del peso per ciascun osso, ed è pronto per la creazione dei frame d'animazione.
+
+#ProgettoP20
+
+Questo file contiene l'animazione del Pacman,ho iniziato dal frame 60 e concluso al frame 220, e l'animazione consisite di un semplice salto e di un atterraggio facendo una specie di opplà.In più ho anche aggiunto una luce ad area.
+
+#ProgettoP21
+
+Su questo file ho aggiunto un piccolo Pacman versione "2d" per abbellire un po l'animazione, per farlo ho seguito un piccolo tutorial che ho trovato, e la sua animazione viene effettuata applicando rotation key e location key. L'ho animato in modo che si fermi poco prima del pacman 3d così che quest'ultimo inizi la sua di animazione.
+
+#ProgettoP22s
+
+Questo è il risultato quasi finale dell'intera animazione, in cui ho aggiunto un'altra luce ad area, ho aggiunto il fantasmino(cui successivamente spiego la creazione) e le tipiche palline bianhce dei giochi di Pacman che ho creato usando solo delle icosphere. Inoltre ho aggiunto un effetto di invisibilità quando il fantasmino e le palline venivano "mangiate", per farlo ho solo usato il disable in render e durante i frame in cui venivano mangiati l'ho disabilitato. 
+
+#ProgettoP23
+
+Su questo ultimo file ho semplicemente voltato il fantasmino per dargli miglior visibilità e gli ho aggiunto una piccola animazione di movimento, come se scappasse dall'essere mangiato.
+Il video del rendering dell'animazione è allegato.
+
+#Fantasma
+
+Per la creazione del fantasmino ho usato una uvsphere che poi ho tagliato a metà e lavorando sui lati e per mezzo di una extrude ho fatto l'estrusione verso il basso, e per dare quella forma di spigoli, lavorando sui vertici ho solo grabbato verso l'alto ciascun vertice.Per gli occhi invece ho usato una uvshpere che ho ridimensionato ed applicato vari resize per dargli la giusta dimensione e per dargli quella forma a goccia ho usato il grab con aiuto del proportional editing objects.Per le braccia ho seguito lo stesso procedimento del Pacman spiegato in precedenza.
+
+#Fanatasma1
+
+Per la bocca invece ho usato una cube su cui ho applicato il comando ctrl+2, ci ho applicato alcune resize per la giusta dimensione e usando il grab ed il proportional editing objects ho dato quella forma curva, la lingua invece è solo lavoro di shading.
+
+#Fantasma2
+
+Su questo file ho solo dato una forma migliore ai guanti,lavorando sulle facce ho solo usato la grab e così ho dato un po quella forma infossata.
+
+#Fantasma3
+
+Su questo ultimo file invece ho solo dato una migliore posa con le braccia al personaggio, per farlo ho solo effettutato rotazioni e grab sulle braccia fino a raggiungere la forma desiderata.
 
