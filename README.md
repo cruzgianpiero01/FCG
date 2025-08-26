@@ -59,7 +59,7 @@ Per gli occhi ho usato un circle che ho ruotato a 90°, con F ho creato la facci
 In questo file semplicemente ho applicato tutti i modificatori usati fin ora su ciascuna parte del corpo ed infine mediante il comando ctrl+j ho unito tutti i pezzi del corpo per farsi di ottenere un unico oggetto.
 
 #ProgettoP12animazione2
-![immagine10](https://github.com/user-attachments/assets/b1723fcc-4390-4ec5-9368-394c0a4aa43c)
+
 
 Su questo file ho cominciato a creare le ossa che poi serviranno per far muovere il personaggio durante l'animazione, ne ho create per il corpo/testa, per le braccia,i pollici , le gambe e la cintura, anche se quest'ultima poi l'ho cancellata perchè rendeva complicato la rotazione/movimento delle gambe (Al momento il peso delle ossa non è ancora distribuito bene e quando si vuole ruotare un articolazione, influenza anche altre parti del corpo).
 
@@ -78,7 +78,7 @@ Su questo file ho semplicemente aggiunto un plane; diciamo per creare un piccolo
 
 #ProgettoP15
 
-
+![immagine10](https://github.com/user-attachments/assets/b1723fcc-4390-4ec5-9368-394c0a4aa43c)
 
 Su questo file, come accennato in precedenza ho semplicemenete cancellato le ossa della cintura che rendeva diffcile la rotazione/movimento delle gambe, ed ho anche già per lo più distribuito meglio il peso di ciascun osso per mezzo della weight paint.
 
