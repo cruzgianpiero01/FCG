@@ -11,12 +11,14 @@ Ho iniziato creando un semplice uvsphere(che ho tagliato a metà e applicato il 
 
 #ProgettoP2
 
-![immagine2](https://github.com/user-attachments/assets/acedbce8-a256-47a7-8c94-ed50752e4975)
+
+![immagine3](https://github.com/user-attachments/assets/17a0cb00-392c-4729-bc34-b84c35932b09)
 
 Lavorando sulle facce ho fatto una extrude sulla parte più esterna del braccio dove poi ho preso le quattro facce esterne (su quella extrude) e fatto un faces along normal fino ad ottenere una specie di palla da cui con una grab ho dato leggermente la forma del guanto, successivamente con una grab sul guanto l'ho reso un po più lungo e mediante la knife ho tagliato alcune parti del guanto in modo che con una extrude formare il pollice.
 
 #ProgettoP3
-![immagine3](https://github.com/user-attachments/assets/17a0cb00-392c-4729-bc34-b84c35932b09)
+![immagine2](https://github.com/user-attachments/assets/acedbce8-a256-47a7-8c94-ed50752e4975)
+
 
 Per le gambe ho seguito lo stesso ragionamento usato nelle braccia quindi ho creato un cube che poi ho trasformato usando ctrl+2, con grab l'ho allungato e usato una piccola extrude e poi una extrude faces along normal per dare un po la forma alo stivale che poi ho suddiviso e lavorando sulle facce una delle parti suddivise l'ho leggermente allungata con extrude per creare la punta dello stivale. 
 
