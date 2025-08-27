@@ -1,6 +1,13 @@
 # FCG
 Progetto Pacman FCG
 
+https://www.youtube.com/watch?v=d3uiNwtLxQI&list=PLV67oOdFzX79KCsZyhMJu20yW3zeUTR2y&index=1
+https://www.youtube.com/watch?v=Pp_e22gGltM&list=PLV67oOdFzX79KCsZyhMJu20yW3zeUTR2y&index=2
+https://www.youtube.com/watch?v=XexAbfge2J4&list=PLV67oOdFzX79KCsZyhMJu20yW3zeUTR2y&index=3
+https://www.youtube.com/watch?v=g_vD2piVQcQ&list=PLV67oOdFzX79KCsZyhMJu20yW3zeUTR2y&index=4
+https://www.youtube.com/watch?v=S1F1Y_t2rhg
+
+
 N.B. Come si vede dal risultato finale nel video tutti gli elementi sono colorati usando lo shading, nei file inviati (a partire da un certo file) sono disattivati, ma si possono attivare perfettamente usando lo viewport shading.
 
 #ProgettoP1
